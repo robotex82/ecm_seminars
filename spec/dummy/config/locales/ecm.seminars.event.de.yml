@@ -1,0 +1,23 @@
+--- 
+de: 
+  activerecord: 
+    models: 
+      ecm/seminars/event: 
+        one: Seminarveranstaltung
+        other: Seminarveranstaltungen
+    attributes: 
+      ecm/seminars/event: 
+        slug: Freundliche ID
+        created_at: Erstellt am
+        close_registrations_at: Anmeldung schliessen am
+        updated_at: Aktualisiert am
+        ecm_seminars_location: Seminarort        
+        ecm_seminars_location_id: Seminarort
+        ecm_seminars_seminar: Seminar
+        ecm_seminars_seminar_id: Seminar
+        ends_at: Endet am
+        description: Beschreibung
+        capacity: Max. Teilnehmer
+        locale: Sprache
+        registrations_count: Anmeldungen
+        begins_at: Beginnt am

@@ -1,0 +1,19 @@
+--- 
+en: 
+  activerecord: 
+    models: 
+      ecm/seminars/participant: 
+        one: 
+        other: 
+    attributes: 
+      ecm/seminars/participant: 
+        ecm_seminars_registration_id: 
+        created_at: 
+        birthdate: 
+        updated_at: 
+        salutation: 
+        lastname: 
+        mobile: 
+        firstname: 
+        phone: 
+        email: 

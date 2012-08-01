@@ -1,0 +1,20 @@
+--- 
+de: 
+  activerecord: 
+    models: 
+      ecm/seminars/participant: 
+        one: Seminarteilnehmer
+        other: Seminarteilnehmer
+    attributes: 
+      ecm/seminars/participant:
+        ecm_seminars_registration: Anmeldung 
+        ecm_seminars_registration_id: Anmeldung 
+        created_at: Erstellt am
+        birthdate: Geburtsdatum
+        updated_at: Aktualisiert am
+        salutation: Anrede
+        lastname: Nachname
+        mobile: Mobilnummer
+        firstname: Vorname
+        phone: Telefon
+        email: E-Mail

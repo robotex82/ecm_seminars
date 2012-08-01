@@ -6,6 +6,7 @@ class CreateEcmSeminarsSeminars < ActiveRecord::Migration
       t.text :description
       t.integer :price_cents
       t.string :price_currency
+      t.boolean :price_on_request
       t.string :coupon_code
       
       # acts as list

@@ -1,0 +1,17 @@
+--- 
+en: 
+  activerecord: 
+    models: 
+      ecm/seminars/location: 
+        one: 
+        other: 
+    attributes: 
+      ecm/seminars/location: 
+        slug: 
+        name: 
+        created_at: 
+        updated_at: 
+        url: 
+        description: 
+        locale: 
+        events_count: 

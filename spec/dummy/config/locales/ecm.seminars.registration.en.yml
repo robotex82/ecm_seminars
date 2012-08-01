@@ -1,0 +1,31 @@
+--- 
+en: 
+  activerecord: 
+    models: 
+      ecm/seminars/registration: 
+        one: 
+        other: 
+    attributes: 
+      ecm/seminars/registration: 
+        company: 
+        position: 
+        city: 
+        created_at: 
+        country: 
+        birthdate: 
+        updated_at: 
+        zipcode: 
+        registration_confirmed_at: 
+        salutation: 
+        street: 
+        lastname: 
+        reference_token: 
+        ecm_seminars_event_id: 
+        coupon_code: 
+        mobile: 
+        firstname: 
+        registrant_confirmed_at: 
+        participants_count: 
+        phone: 
+        telefax: 
+        email: 

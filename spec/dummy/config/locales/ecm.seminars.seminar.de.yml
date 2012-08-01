@@ -1,0 +1,23 @@
+--- 
+de: 
+  activerecord: 
+    models: 
+      ecm/seminars/seminar: 
+        one: Seminar
+        other: Seminare
+    attributes: 
+      ecm/seminars/seminar: 
+        slug: Freundliche ID
+        position: Position
+        name: Name
+        created_at: Erstellt am 
+        updated_at: Aktualisiert am
+        coupon_code: Guschein Code
+        price_currency: Währung
+        ecm_seminars_category: Seminarkategorie
+        ecm_seminars_category_id: Seminarkategorie
+        locale: Sprache
+        description: Beschreibung
+        events_count: Events
+        price_cents: Preis
+        price_on_request: Preis auf Anfrage

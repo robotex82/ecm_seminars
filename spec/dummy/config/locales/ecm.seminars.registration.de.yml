@@ -1,0 +1,32 @@
+--- 
+de: 
+  activerecord: 
+    models: 
+      ecm/seminars/registration: 
+        one: Seminaranmeldung
+        other: Seminaranmeldungen
+    attributes: 
+      ecm/seminars/registration: 
+        company: Firma
+        position: Position
+        city: Stadt
+        created_at: Erstellt am 
+        country: Land
+        birthdate: Geburtsdatum
+        updated_at: Aktualisiert am
+        zipcode: PLZ
+        registration_confirmed_at: Registrierung bestätigt am
+        salutation: Anrede
+        street: Strasse
+        lastname: Nachname
+        reference_token: Referenznummer
+        ecm_seminars_event: Veranstaltung        
+        ecm_seminars_event_id: Veranstaltung
+        coupon_code: Gutschein Code
+        mobile: Mobilnummer
+        firstname: Vorname
+        registrant_confirmed_at: Teilnehmer bestätigt am
+        participants_count: Teilnehmer
+        phone: Telefon
+        telefax: Fax
+        email: E-Mail

@@ -1,0 +1,17 @@
+--- 
+de: 
+  activerecord: 
+    models: 
+      ecm/seminars/location: 
+        one: Seminarort
+        other: Seminarorte
+    attributes: 
+      ecm/seminars/location: 
+        slug: Freundliche ID
+        name: Name
+        created_at: Erstellt am 
+        updated_at: Aktualisiert am
+        url: Homepage
+        description: Beschreibung
+        locale: Sprache
+        events_count: Veranstaltungen

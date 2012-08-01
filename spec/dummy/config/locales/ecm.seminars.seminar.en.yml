@@ -1,0 +1,22 @@
+--- 
+en: 
+  activerecord: 
+    models: 
+      ecm/seminars/seminar: 
+        one: 
+        other: 
+    attributes: 
+      ecm/seminars/seminar: 
+        slug: 
+        position: 
+        name: 
+        created_at: 
+        updated_at: 
+        coupon_code: 
+        price_currency: 
+        ecm_seminars_category_id: 
+        locale: 
+        description: 
+        events_count: 
+        price_cents: 
+        price_on_request: 

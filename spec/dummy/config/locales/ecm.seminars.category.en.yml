@@ -1,0 +1,31 @@
+--- 
+en: 
+  activerecord: 
+    models: 
+      ecm/seminars/category: 
+        one: 
+        other: 
+    attributes: 
+      ecm/seminars/category: 
+        slug: 
+        preview_image_fingerprint: 
+        name: 
+        created_at: 
+        main_image_content_type: 
+        depth: 
+        short_description: 
+        updated_at: 
+        main_image_updated_at: 
+        main_image_fingerprint: 
+        lft: 
+        main_image_file_size: 
+        main_image_file_name: 
+        long_description: 
+        preview_image_updated_at: 
+        parent_id: 
+        preview_image_content_type: 
+        locale: 
+        preview_image_file_name: 
+        preview_image_file_size: 
+        rgt: 
+        seminars_count: 

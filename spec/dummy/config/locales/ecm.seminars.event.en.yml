@@ -1,0 +1,21 @@
+--- 
+en: 
+  activerecord: 
+    models: 
+      ecm/seminars/event: 
+        one: 
+        other: 
+    attributes: 
+      ecm/seminars/event: 
+        slug: 
+        created_at: 
+        close_registrations_at: 
+        updated_at: 
+        ecm_seminars_location_id: 
+        ecm_seminars_seminar_id: 
+        ends_at: 
+        description: 
+        capacity: 
+        locale: 
+        registrations_count: 
+        begins_at: 

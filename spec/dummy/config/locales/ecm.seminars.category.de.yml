@@ -1,0 +1,31 @@
+--- 
+de: 
+  activerecord: 
+    models: 
+      ecm/seminars/category: 
+        one: Seminarkategorie
+        other: Seminarkategorien
+    attributes: 
+      ecm/seminars/category: 
+        slug: Freundliche ID
+        preview_image_fingerprint: Vorschaubild Fingerabdruck
+        name: Name
+        created_at: Erstellt am
+        main_image_content_type: Hauptbild
+        depth: Tiefe
+        short_description: Kurzbeschreibung
+        updated_at: Aktualisiert am
+        main_image_updated_at: Hauptbild
+        main_image_fingerprint: Hauptbild
+        lft: Links
+        main_image_file_size: 
+        main_image_file_name: 
+        long_description: Langbeschreibung
+        preview_image_updated_at: Vorschaubild
+        parent_id: Überkategorie
+        preview_image_content_type: Vorschaubild
+        locale: Sprache
+        preview_image_file_name: Vorschaubild
+        preview_image_file_size: Vorschaubild
+        rgt: Rechts
+        seminars_count: Seminare

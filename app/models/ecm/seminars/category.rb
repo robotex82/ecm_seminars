@@ -22,7 +22,11 @@ class Ecm::Seminars::Category < ActiveRecord::Base
   
   # friendly id
   extend FriendlyId
-  friendly_id :name, :use => :slugged  
+  friendly_id :name, :use => :slugged 
+  
+  # paperclip
+  has_attached_file :main_image 
+  has_attached_file :preview_image
                   
   # validations
   validates :name, :presence => true, :uniqueness => { :scope => [ :parent_id ] }
